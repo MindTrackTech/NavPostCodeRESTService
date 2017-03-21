@@ -1,0 +1,9 @@
+C:\Users\siyer\Documents\Visual Studio 2013\Projects\NAVPostCodeRESTService\NAVPostCodeRESTService\bin\NAVPostCodeRESTService.dll.config
+C:\Users\siyer\Documents\Visual Studio 2013\Projects\NAVPostCodeRESTService\NAVPostCodeRESTService\bin\NAVPostCodeRESTService.dll
+C:\Users\siyer\Documents\Visual Studio 2013\Projects\NAVPostCodeRESTService\NAVPostCodeRESTService\bin\NAVPostCodeRESTService.pdb
+C:\Users\siyer\Documents\Visual Studio 2013\Projects\NAVPostCodeRESTService\NAVPostCodeRESTService\obj\Debug\NAVPostCodeRESTService.dll
+C:\Users\siyer\Documents\Visual Studio 2013\Projects\NAVPostCodeRESTService\NAVPostCodeRESTService\obj\Debug\NAVPostCodeRESTService.pdb
+C:\Users\siyer\Documents\Visual Studio 2013\Projects\NAVPostCodeRESTService\NAVPostCodeRESTService\bin\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\siyer\Documents\Visual Studio 2013\Projects\NAVPostCodeRESTService\NAVPostCodeRESTService\bin\Microsoft.Xrm.Client.dll
+C:\Users\siyer\Documents\Visual Studio 2013\Projects\NAVPostCodeRESTService\NAVPostCodeRESTService\bin\Microsoft.Xrm.Sdk.dll
+C:\Users\siyer\Documents\Visual Studio 2013\Projects\NAVPostCodeRESTService\NAVPostCodeRESTService\obj\Debug\NAVPostCodeRESTService.csprojResolveAssemblyReference.cache
